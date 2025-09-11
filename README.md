@@ -1,7 +1,4 @@
-testing
-
-
-&nbsp;
+testing 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -136,3 +133,4 @@ DM me on [GitHub](https://github.com/avenauche), [LinkedIn](https://www.linkedin
 ## 🌎 Let's Connect!
 - [ LinkedIn ](https://www.linkedin.com/in/avinashjayakumar)
   
+
